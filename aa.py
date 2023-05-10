@@ -1,3 +1,0 @@
-print("hoLA")
-
-print("DASD")
